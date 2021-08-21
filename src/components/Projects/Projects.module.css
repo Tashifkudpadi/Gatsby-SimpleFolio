@@ -24,7 +24,7 @@
 .container {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  padding: 1rem 10rem;
+  padding: 1rem 12rem;
   margin-top: 2.5rem;
 }
 @media screen and (max-width: 480px) {

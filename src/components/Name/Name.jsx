@@ -16,6 +16,7 @@ function Name() {
       <span>
         <a
           href="https://github.com/Tashifkudpadi/Gatsby-SimpleFolio"
+          target="_blank"
           className={classes.btn}
         >
           Make it now

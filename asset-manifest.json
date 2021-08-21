@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Gatsby-SimpleFolio/static/css/main.d063fa85.chunk.css",
+    "main.js": "/Gatsby-SimpleFolio/static/js/main.d4d34bff.chunk.js",
+    "main.js.map": "/Gatsby-SimpleFolio/static/js/main.d4d34bff.chunk.js.map",
+    "runtime-main.js": "/Gatsby-SimpleFolio/static/js/runtime-main.dd146e94.js",
+    "runtime-main.js.map": "/Gatsby-SimpleFolio/static/js/runtime-main.dd146e94.js.map",
+    "static/css/2.7fc9bc2b.chunk.css": "/Gatsby-SimpleFolio/static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.8f4f469e.chunk.js": "/Gatsby-SimpleFolio/static/js/2.8f4f469e.chunk.js",
+    "static/js/2.8f4f469e.chunk.js.map": "/Gatsby-SimpleFolio/static/js/2.8f4f469e.chunk.js.map",
+    "index.html": "/Gatsby-SimpleFolio/index.html",
+    "static/css/2.7fc9bc2b.chunk.css.map": "/Gatsby-SimpleFolio/static/css/2.7fc9bc2b.chunk.css.map",
+    "static/css/main.d063fa85.chunk.css.map": "/Gatsby-SimpleFolio/static/css/main.d063fa85.chunk.css.map",
+    "static/js/2.8f4f469e.chunk.js.LICENSE.txt": "/Gatsby-SimpleFolio/static/js/2.8f4f469e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd146e94.js",
+    "static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.8f4f469e.chunk.js",
+    "static/css/main.d063fa85.chunk.css",
+    "static/js/main.d4d34bff.chunk.js"
+  ]
+}

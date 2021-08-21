@@ -13,7 +13,14 @@ function Name() {
   return (
     <div data-aos="fade-right" className={classes.name}>
       <h2>You can make this website yours! </h2>
-      <button className={classes.btn}>Make it now</button>
+      <span>
+        <a
+          href="https://github.com/Tashifkudpadi/Gatsby-SimpleFolio"
+          className={classes.btn}
+        >
+          Make it now
+        </a>
+      </span>
     </div>
   );
 }
